@@ -6,3 +6,6 @@ def sqrt(x):
                 print (i)
     else:
         print("SUSSY AMONG US IMPOSTOR ERROR!!!!")
+
+def power(x, y):
+    print(x ** y)
