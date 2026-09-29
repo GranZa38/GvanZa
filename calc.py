@@ -1,5 +1,5 @@
-def f(a,b):
+def ti(a,b):
     return a * b
 
-def f(a,b):
+def div(a,b):
     return a // b
