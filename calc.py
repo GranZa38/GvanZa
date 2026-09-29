@@ -1,8 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 def sum(a,b):
     return a+b
 def nesum(a,b):
     return a-b
+=======
+def ti(a,b):
+    return a * b
+
+def div(a,b):
+    return a // b
+>>>>>>> 8181e46e1a6cc0f601fe3740e29cd476e0ee4e9a
 =======
 def sqrt(x):
     res = 0
